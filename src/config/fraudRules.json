@@ -1,0 +1,4 @@
+{
+  "amountThreshold": 500,
+  "suspiciousDomains": [".ru", "test.com"]
+} 
